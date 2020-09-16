@@ -1,1 +1,1 @@
-https://vee-mars.github.io/rsschool-cv/cv 
+https://VeeMars.github.io/rsschool-cv/cv 
