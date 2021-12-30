@@ -23,7 +23,7 @@ There is no work experience yet, but there is a desire to study everything, the 
 ### Courses
 
 Before the start of rss-stage 0, passed basic simulators in HTML Academy.  
-![прохождение тренажеров] (C:\Users\vee23\Desktop\RSS\CV 1\прохождение тренажеров.png)
+![прохождение тренажеров (прохождение тренажеров.png)
 
 ### English Level
 
